@@ -11,3 +11,4 @@ You can find the copy of the formulaire [here](https://forms.gle/jbgC46VzmZbqi3d
 
 ## The algorithm
 As you can see in the form the answers are from 1 to 5. I write a algo that calculates the distance beetween the answers of everybody. The shortest the distance is, the more compatible the couple is. 
+I used [pandas](https://pandas.pydata.org/) to treat the data.
